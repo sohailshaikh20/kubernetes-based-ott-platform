@@ -74,7 +74,7 @@ Deploy a Hotstar-like **Next.js** application using an **end-to-end DevSecOps pi
 
 ---
 
-## Repository Structure (recommended)
+## Repository Structure
 
 ```bash
 .
